@@ -1,9 +1,9 @@
 ## 機械学習について
 
 ## 参考資料
-[自動車環境性能の改善](https://quest.signate.jp/quests/10001)
-[自動車の走行距離予測](https://signate.jp/competitions/121/data)
-[スポーツのチケット価格の最適化](https://quest.signate.jp/quests/10006)
+- [自動車環境性能の改善](https://quest.signate.jp/quests/10001)
+- [自動車の走行距離予測](https://signate.jp/competitions/121/data)
+- [スポーツのチケット価格の最適化](https://quest.signate.jp/quests/10006)
 
 ## 目次
 - 機械学習とは
@@ -28,9 +28,8 @@
 - 実装例
 - 事例
   - [Posen](https://hi.posen.ai/)
-
-
 ```
+
 機械学習の活用事例
 店舗の来客分析（データ分析）
 コンビニやスーパーをはじめとして、店舗の来客分析には機械学習が活用されています。
