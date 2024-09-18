@@ -2,4 +2,5 @@
 
 ## 参考資料
 - [機械学習とは？](https://jp.mathworks.com/discovery/machine-learning.html)
-- [機械学習における評価指標とは？必要性や予測・評価ステップを解説](https://aismiley.co.jp/ai_news/machine-learning-evaluation-index/)
+- [機械学習における評価指標とは？必要性や予測・評価ステップを解説](https://aismiley.co.jp/ai_news/machine-learning-evaluation-index/
+- [GA4のログデータ]https://www.udemy.com/course/ga4-bigquery/?couponCode=ST11MT91624B
