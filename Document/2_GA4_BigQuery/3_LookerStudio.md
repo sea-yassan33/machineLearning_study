@@ -35,5 +35,5 @@ https://lookerstudio.google.com/reporting/21454a81-dd7e-4581-ae55-1c2089fb5f25
 
 #### コード埋め込み例
 ```html
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/21454a81-dd7e-4581-ae55-1c2089fb5f25/page/AYQCE" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe width="100%" height="500" src="https://lookerstudio.google.com/embed/reporting/21454a81-dd7e-4581-ae55-1c2089fb5f25/page/AYQCE" sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 ```
