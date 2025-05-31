@@ -68,4 +68,8 @@
 - [MySQLから移行してBigQueryを少し使ってみた](https://qiita.com/y-encore/items/71adf46a3473216ea7cd)
 - [IT初学者がカラムナデータベースを勉強してみた](https://future-architect.github.io/articles/20210419b/)
 - [BigQueryとは？代表的な機能やGA4との連携方法まで徹底解説！](https://anymanager.io/ja/blog/big-query)
-
+- [Hugging Faceとは何か？](https://www.sbbit.jp/article/cont1/122042)
+- [Hugging Faceとは？](https://miralab.co.jp/media/hugging-face/)
+- [pyannote.audioで簡単話者分離](https://qiita.com/sayo0127/items/e22fdc229d2dfd879f75)
+- [Pythonで始める音楽制作: pydubライブラリ入門](https://qiita.com/Tadataka_Takahashi/items/0f8238936d209c1fad2c)
+- [FFmpegのインストールと使用方法 （Rocky Linux 9.2 ）](https://qiita.com/24Century/items/33f92bfc960d5126f916)
