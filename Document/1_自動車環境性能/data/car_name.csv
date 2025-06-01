@@ -1,60 +1,154 @@
 car name,count
 chevrolet impala,4
 ford pinto,4
-volkswagen dasher,3
-chevrolet caprice classic,3
-amc gremlin,3
 amc hornet,3
-chevrolet vega,2
-datsun 210,2
-toyota corolla 1200,2
-amc matador,2
+chevrolet caprice classic,3
+volkswagen dasher,3
+amc gremlin,3
+toyota mark ii,2
 chevrolet chevelle malibu,2
+toyota corolla 1200,2
+chevrolet chevette,2
+chevrolet citation,2
 plymouth fury iii,2
 buick century,2
-chevrolet citation,2
-chevrolet nova,2
-plymouth reliant,2
-chevrolet chevette,2
-ford galaxie 500,2
-vw rabbit,2
-opel 1900,2
 dodge aspen,2
 toyota corona,2
+opel 1900,2
+datsun 210,2
+vw rabbit,2
+chevrolet vega,2
+plymouth reliant,2
+ford galaxie 500,2
 dodge colt,2
-toyota mark ii,2
-chevrolet monte carlo s,1
-fiat x1.9,1
-ford ltd landau,1
-ford futura,1
-audi 5000s (diesel),1
-dodge aries wagon (sw),1
-chevrolet monza 2+2,1
-triumph tr7 coupe,1
-volvo 145e (sw),1
-fiat 128,1
-ford thunderbird,1
-renault 18i,1
+amc matador,2
+chevrolet nova,2
+mercury cougar brougham,1
+subaru,1
+chevroelt chevelle malibu,1
+dodge aries se,1
+pontiac phoenix,1
+toyota tercel,1
+vw rabbit custom,1
+dodge omni,1
+datsun pl510,1
+chevrolet woody,1
+renault 12 (sw),1
+mercedes-benz 280s,1
+dodge st. regis,1
+oldsmobile omega,1
+bmw 2002,1
+mazda 626,1
+subaru dl,1
+toyota starlet,1
+saab 99le,1
+volkswagen scirocco,1
+chevrolet chevelle malibu classic,1
+oldsmobile cutlass ciera (diesel),1
+honda accord cvcc,1
+amc concord dl,1
+mercury zephyr 6,1
+dodge charger 2.2,1
+pontiac safari (sw),1
+peugeot 505s turbo diesel,1
+datsun 280-zx,1
+chevy s-10,1
+honda civic 1500 gl,1
+fiat 124b,1
+amc ambassador brougham,1
+toyota corolla,1
+hi 1200d,1
+toyota corolla tercel,1
+ford ltd,1
+toyouta corona mark ii (sw),1
+bmw 320i,1
+audi 4000,1
+chevrolet vega (sw),1
+ford gran torino,1
+chevrolet nova custom,1
+ford pinto (sw),1
+dodge aspen 6,1
+volkswagen rabbit custom diesel,1
+pontiac astro,1
+ford gran torino (sw),1
+peugeot 504,1
+buick century limited,1
+datsun 200sx,1
+chevrolet monte carlo landau,1
+dodge challenger se,1
+dodge coronet custom,1
+datsun 810 maxima,1
+chevrolet cavalier 2-door,1
+plymouth champ,1
+mercury capri 2000,1
+ford fairmont,1
+plymouth arrow gs,1
+mercury zephyr,1
+volkswagen model 111,1
+amc pacer,1
+mercury grand marquis,1
+ford escort 4w,1
+plymouth satellite custom (sw),1
+honda civic,1
+datsun 210 mpg,1
+vokswagen rabbit,1
+plymouth cricket,1
+plymouth horizon tc3,1
 amc concord d/l,1
 dodge monaco brougham,1
 volvo 144ea,1
-buick skylark limited,1
-opel manta,1
-buick century special,1
+pontiac j2000 se hatchback,1
+capri ii,1
+datsun 510,1
+honda civic 1300,1
+ford granada l,1
+renault 18i,1
 dodge aspen se,1
-datsun 810,1
-volkswagen type 3,1
-mercedes-benz 240d,1
-amc pacer d/l,1
-datsun f-10 hatchback,1
+buick century special,1
+opel manta,1
+buick skylark limited,1
 oldsmobile delta 88 royale,1
-chevy c20,1
-plymouth volare premier v8,1
+datsun 810,1
+fiat 128,1
 volkswagen jetta,1
+plymouth volare premier v8,1
+volkswagen type 3,1
+ford thunderbird,1
+triumph tr7 coupe,1
+volvo 145e (sw),1
+amc pacer d/l,1
+mercedes-benz 240d,1
+fiat x1.9,1
+ford futura,1
+audi 5000s (diesel),1
+chevrolet monte carlo s,1
+dodge aries wagon (sw),1
+chevrolet monza 2+2,1
 plymouth horizon 4,1
-dodge aries se,1
+ford ltd landau,1
+chevy c20,1
 plymouth horizon,1
-pontiac lemans v6,1
+renault lecar deluxe,1
+volkswagen 1131 deluxe sedan,1
+buick skyhawk,1
+dodge magnum xe,1
+plymouth valiant,1
+datsun f-10 hatchback,1
+ford mustang ii 2+2,1
+buick lesabre custom,1
+datsun 200-sx,1
+datsun 510 (sw),1
+ford mustang,1
+dodge rampage,1
+toyota celica gt,1
+datsun 710,1
+dodge monaco (sw),1
+ford f108,1
+chevrolet vega 2300,1
+saab 99e,1
+honda accord lx,1
+mazda rx-4,1
+mazda glc deluxe,1
 honda prelude,1
 amc ambassador dpl,1
 toyota corona liftback,1
@@ -62,8 +156,8 @@ oldsmobile cutlass salon brougham,1
 dodge diplomat,1
 ford fairmont (man),1
 datsun 1200,1
+pontiac lemans v6,1
 buick regal sport coupe (turbo),1
-volkswagen 1131 deluxe sedan,1
 chevrolet camaro,1
 toyota corona hardtop,1
 volkswagen rabbit l,1
@@ -71,98 +165,4 @@ amc spirit dl,1
 mercury monarch ghia,1
 amc rebel sst,1
 vw dasher (diesel),1
-mazda glc deluxe,1
-mazda rx-4,1
-honda accord lx,1
-chevrolet vega 2300,1
-renault lecar deluxe,1
-buick skyhawk,1
-dodge magnum xe,1
-plymouth cricket,1
-ford mustang ii 2+2,1
-buick lesabre custom,1
-datsun 510 (sw),1
-datsun 200-sx,1
-datsun 710,1
-ford mustang,1
-dodge rampage,1
-toyota celica gt,1
-dodge monaco (sw),1
-ford f108,1
-saab 99e,1
-plymouth valiant,1
-plymouth arrow gs,1
-vokswagen rabbit,1
-pontiac safari (sw),1
-oldsmobile cutlass ciera (diesel),1
-honda accord cvcc,1
-chevrolet chevelle malibu classic,1
-volkswagen scirocco,1
-toyota starlet,1
-saab 99le,1
-subaru dl,1
-mazda 626,1
-pontiac astro,1
-volkswagen rabbit custom diesel,1
-ford granada l,1
-ford pinto (sw),1
-dodge aspen 6,1
-honda civic 1300,1
-honda civic 1500 gl,1
-dodge charger 2.2,1
-mercury zephyr 6,1
-datsun 210 mpg,1
-amc concord dl,1
-toyota tercel,1
-pontiac phoenix,1
-chevroelt chevelle malibu,1
-oldsmobile omega,1
-bmw 2002,1
-dodge st. regis,1
-mercedes-benz 280s,1
-dodge omni,1
-datsun pl510,1
-renault 12 (sw),1
-chevrolet woody,1
-peugeot 505s turbo diesel,1
-datsun 280-zx,1
-mercury cougar brougham,1
-subaru,1
-chevrolet nova custom,1
-chevy s-10,1
-pontiac j2000 se hatchback,1
-capri ii,1
-amc pacer,1
-volkswagen model 111,1
-dodge coronet custom,1
-dodge challenger se,1
-plymouth champ,1
-chevrolet cavalier 2-door,1
-mercury capri 2000,1
-ford fairmont,1
-vw rabbit custom,1
-mercury zephyr,1
-ford escort 4w,1
-mercury grand marquis,1
-honda civic,1
-plymouth horizon tc3,1
-plymouth satellite custom (sw),1
-datsun 810 maxima,1
-ford gran torino (sw),1
-peugeot 504,1
-toyota corolla tercel,1
-datsun 510,1
-amc ambassador brougham,1
-fiat 124b,1
-hi 1200d,1
-toyota corolla,1
-bmw 320i,1
-ford ltd,1
-buick century limited,1
-toyouta corona mark ii (sw),1
-audi 4000,1
-chevrolet vega (sw),1
-chevrolet monte carlo landau,1
-ford gran torino,1
-datsun 200sx,1
 fiat 124 sport coupe,1
